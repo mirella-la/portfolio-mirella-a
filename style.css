@@ -17,7 +17,7 @@ html {
 
 body {
     background-color: #fff29e;
-    background-image: url(imgs/background-img.png);
+    background-image: url(imgs/background-img.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -253,6 +253,12 @@ p {
 
 .texto-sobre p {
     text-align: justify;
+}
+
+.negrito {
+    font-family: 'Poppins', 'sans serif';
+    font-size: 25px;
+    
 }
 
 /* PROJETOS */
